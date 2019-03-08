@@ -60,5 +60,5 @@ docker run -i -t --name=ubuntu  ubuntu:16.04
 ```
 
 - start 
-    docker start xxx
+    docker start xxx  
     docker exec -u=yb -w=/home/yb -t -i ubuntu /usr/bin/zsh
